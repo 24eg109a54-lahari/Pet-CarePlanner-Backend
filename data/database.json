@@ -1,0 +1,25 @@
+{
+  "pets": [],
+  "tasks": [],
+  "vaccinations": [],
+  "reminders": [],
+  "medicines": [],
+  "healthRecords": [],
+  "lostPets": [],
+  "users": [
+    {
+      "id": "user_1791732690568_5vqnaj",
+      "name": "Test Parent",
+      "email": "test@example.com",
+      "password": "70edea781091aea96d99d0a4887c3d5c140a0f09e6487451472a9b019c24cd30",
+      "createdAt": "2026-10-11T15:31:30.568Z"
+    },
+    {
+      "id": "user_1791732841226_mnqztw",
+      "name": "thunder",
+      "email": "fleet4735@gmail.com",
+      "password": "5839d8551a5a9416aa2912b8d2b10b3eda4493b7c6c62402ce04a30334e14a6a",
+      "createdAt": "2026-10-11T15:34:01.226Z"
+    }
+  ]
+}
